@@ -1,0 +1,38 @@
+<size=80>YOU HAVE BEEN KICKED</size>\nSkill Issue.
+<size=80>DISCONNECTED</size>\nTry harder.
+<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
+<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
+<size=80>DISCONNECTED</size>\nTry harder.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (skill issue).
+<size=80>DISCONNECTED</size>\nConnection lost (skill issue).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nUpdate your game.
+<size=80>DISCONNECTED</size>\nInvalid server config.
+<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
+<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
+<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
+<size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
+<size=80>NOTE FROM GUARD</size>\nYOU SHALL NOT PASS.
+<size=80>SKILL ISSUE</size>\nSays the guy who can't play SL.
+<size=80>SKILL ISSUE</size>\nSays the guy who can't play SL, here's why: [reason].
+<size=80>BANNED FROM SERVER</size>\nULTIMATE SKILL ISSUE
+<size=80>BANNED FROM SERVER</size>\nULTIMATE SKILL ISSUE\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
+<size=80>DISCONNECTED</size>\nTry harder.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>NOTE FROM GUARD</size>\nYOU SHALL NOT PASS\nReason: [reason]
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
+<size=80>BANNED FROM SERVER</size>\nULTIMATE SKILL ISSUE\nReason: [reason]
+<size=80>BANNED FROM SERVER</size>\nULTIMATE SKILL ISSUE\nBan expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nFailed to process server security verification.
+<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
+<size=80>AUTH ERROR</size>\nCentral Server Message: [message].
+<size=80>RIP SERVER</size>\nThere goes the server.

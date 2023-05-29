@@ -1,0 +1,46 @@
+None~No Attachments?
+Iron Sights~Why would you use this?
+Dot Sight~It's a dot.
+Holographic Sight~It's more than a dot.
+Night-Vision Scope~Night Vision Potion but Worse.
+Ammo Counter Sight~JUST SHOOT AND BLAST WHY ARE YOU USING THIS?
+Telescopic Sight~Sniper Gaming.
+Standard Stock~Stock Stock.
+Extended Stock~LONG STOCK.
+Retracted Stock~Pistol-like SMG.
+Tactical Stock~Tactical.
+Heavy Stock~It makes you slow.
+Recoil-Reducing Stock~Less recoil let's go.
+Foregrip~You hold it better, but you don't use it.
+Laser Sight~Hip-fire momento.
+Flashlight~Computer Counter.
+Ammo Counter~Use a better attachment.
+Standard Barrel~It's stock barrel.
+Extended Barrel~LONG BOI.
+Suppressor~Stealth is optional.
+Flash Hider~You should just go with the suppressor.
+Muzzle Brake~It lowers recoil at the cost of EVERYTHING HEARING YOU FROM THE OTHER SIDE OF THE MAP.
+Muzzle Booster~The only way you'll able to kill SCPs.
+FMJ Magazine~Locked and Loaded.
+AP Magazine~Military Counter.
+JHP Magazine~Civilian Counter.
+Extended FMJ Magazine~More Locked Per Loaded.
+Extended AP Magazine~Extended Military Counter.
+Extended JHP Magazine~Extended Civilian Counter.
+FMJ Drum~65% More Bullet Per Bullet.
+AP Drum~High-capacity Military Counter.
+JHP Drum~High-capacity Civilian Counter.
+Low-Cap FMJ Magazine~Snoiper?
+Low-Cap AP Magazine~Anti-Military Snoiper?
+Low-Cap JHP Magazine~Anti-Civilian Snoiper?
+4-Shot Cylinder~Sniper Gaming.
+6-Shot Cylinder~Cowboy Up!
+8-Shot Cylinder~We got a bit more boolet.
+Carbine Receiver~Carbine.
+Rifle Receiver~Rifle.
+Short Barrel~Surprise!
+Choke~Good at moving targets.
+Extended Barrel~Boolet no go side.
+No Stock~Even Northwood said it was a dumb idea.
+Single-Shot System~One Shot, 1/2 Kill.
+Double-Shot System~One Shot, One Kill.
