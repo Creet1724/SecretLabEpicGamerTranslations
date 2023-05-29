@@ -1,46 +1,46 @@
-None~Default option with no effects.
-Iron Sights~A pair of alignment markers making up a simple, lightweight sighting device.
-Dot Sight~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
-Holographic Sight~Non-magnifying sight with a holographic reticle. Effective in close-quarters combat.
-Night-Vision Scope~Telescopic sight augmented with a night-vision device. Heavy, but effective in all lighting conditions.
-Ammo Counter Sight~Iron sights with integrated ammunition counting device.
-Telescopic Sight~Heavy sighting device, providing optical magnification. Perfect for long-range, but limits the overall perception.
-Standard Stock~Regular stock, providing better control of the firearm when aiming down the sights.
-Extended Stock~Provides better control of the firearm when aiming down the sights, but increases the equipping time.
-Retracted Stock~Makes the firearm more compact, which increases mobility.
-Lightweight Stock~Reduces the weight of the firearm but makes it harder to control the recoil when aiming down the sights.
-Heavy Stock~Increased weight lowers mobility but makes the firearm more stable when aiming down the sights.
-Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots.
-Foregrip~Vertical forward grip. Makes it easier to handle the muzzle rise.
-Laser Sight~Provides visual reference point onto the target, which helps in hip-firing but can easily reveal your position.
-Flashlight~Toggleable light source. Increases total weight of the firearm but can be life-saving in dark areas.
-Ammo Counter~Ammunition counting device. Experimental technology that has proven to be useful, especially with high-capacity magazines.
-Standard Barrel~Conventional barrel with no muzzle device.
-Extended Barrel~Improves the overall firepower, but contributes to low mobility caused by increased weight and length.
-Suppressor~Sound moderator. Reduces the loudness of gunshots, but increases the overall weight and length of the firearm.
-Flash Hider~Eliminates muzzle flash. Makes it easier to shoot in the darkness.
-Muzzle Brake~Recoil compensator. Uses propellant gases to reduce recoil, but increases the acoustic intensity of gunshots.
-Muzzle Booster~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
-FMJ Magazine~Standard magazine that contains full metal jacket bullets.
-AP Magazine~Standard magazine that contains armor-piercing bullets.
-JHP Magazine~Standard magazine that contains hollow-point bullets.
-Extended FMJ Magazine~Extended magazine that contains full metal jacket bullets.
-Extended AP Magazine~Extended magazine that contains armor-piercing bullets.
-Extended JHP Magazine~Extended magazine that contains hollow-point bullets.
-FMJ Drum~High-capacity drum magazine that contains full metal jacket bullets.
-AP Drum~High-capacity drum magazine that contains armor-piercing bullets.
-JHP Drum~High-capacity drum magazine that contains hollow-point bullets.
-Low-Cap FMJ Magazine~Low-capacity magazine that contains full metal jacket bullets.
-Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
-Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
-4-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
-6-Shot Cylinder~The classic six-shooter.
-8-Shot Cylinder~Holds more cartridges, but the heavier trigger pull requires more time to perform accurate shots.
-Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
-Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
-Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
-Choke~Increases total radius of spread but improves the consistency of the pattern.
-Extended Barrel~Slightly reduces the spread radius but increases the total firearm weight and length.
-No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
-Single-Shot System~Standard system. One trigger-pull leads to one discharge.
-Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.
+None~No Attachments?
+Iron Sights~Why would you use this?
+Dot Sight~It's a dot.
+Holographic Sight~It's more than a dot.
+Night-Vision Scope~Night Vision Potion but Worse.
+Ammo Counter Sight~JUST SHOOT AND BLAST WHY ARE YOU USING THIS?
+Telescopic Sight~Sniper Gaming.
+Standard Stock~Stock Stock.
+Extended Stock~LONG STOCK.
+Retracted Stock~Pistol-like SMG.
+Tactical Stock~Tactical.
+Heavy Stock~It makes you slow.
+Recoil-Reducing Stock~Less recoil let's go.
+Foregrip~You hold it better, but you don't use it.
+Laser Sight~Hip-fire momento.
+Flashlight~Computer Counter.
+Ammo Counter~Use a better attachment.
+Standard Barrel~It's stock barrel.
+Extended Barrel~LONG BOI.
+Suppressor~Stealth is optional.
+Flash Hider~You should just go with the suppressor.
+Muzzle Brake~It lowers recoil at the cost of EVERYTHING HEARING YOU FROM THE OTHER SIDE OF THE MAP.
+Muzzle Booster~The only way you'll able to kill SCPs.
+FMJ Magazine~Locked and Loaded.
+AP Magazine~Military Counter.
+JHP Magazine~Civilian Counter.
+Extended FMJ Magazine~More Locked Per Loaded.
+Extended AP Magazine~Extended Military Counter.
+Extended JHP Magazine~Extended Civilian Counter.
+FMJ Drum~65% More Bullet Per Bullet.
+AP Drum~High-capacity Military Counter.
+JHP Drum~High-capacity Civilian Counter.
+Low-Cap FMJ Magazine~Snoiper?
+Low-Cap AP Magazine~Anti-Military Snoiper?
+Low-Cap JHP Magazine~Anti-Civilian Snoiper?
+4-Shot Cylinder~Sniper Gaming.
+6-Shot Cylinder~Cowboy Up!
+8-Shot Cylinder~We got a bit more boolet.
+Carbine Receiver~Carbine.
+Rifle Receiver~Rifle.
+Short Barrel~Surprise!
+Choke~Good at moving targets.
+Extended Barrel~Boolet no go side.
+No Stock~Even Northwood said it was a dumb idea.
+Single-Shot System~One Shot, 1/2 Kill.
+Double-Shot System~One Shot, One Kill.
