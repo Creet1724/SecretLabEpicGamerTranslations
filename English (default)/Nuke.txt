@@ -1,4 +1,0 @@
-<color=lime><size=180>READY?</size></color>
-<color=lime><size=180>READYING...</size></color>
-<color=lime><size=180>READY</size></color>
-TOO LATE
