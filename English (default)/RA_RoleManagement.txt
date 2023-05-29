@@ -1,24 +1,24 @@
 None
-SCP-173
-Class-D
-Spectator
-SCP-106
-NTF Specialist
-SCP-049
-Scientist
-SCP-079
-Chaos Conscript
-SCP-096
-SCP-049-2
-NTF Sergeant
-NTF Captain
-NTF Private
-Tutorial
-Facility Guard
-SCP-939
-Custom Role
-Chaos Rifleman
-Chaos Repressor
-Chaos Marauder
+Peanut
+D-BOI!!
+Dead
+Uncle R. Larry
+NTF Nerd
+Doctor
+Nerd
+Computer
+CI BOI!!
+Shy Guy
+Zombo
+NTF Can't Open Intercom
+NTF Can't Give Orders
+NTF Can't Open Gates
+Admin Momento/Plugin Class
+Guard Gaming
+Average Dog in Ohio
+SCP-939-89 (I know you miss it)
+CI Russian
+CI Cowboy
+CI Heavy
 Overwatch
 Filmmaker
